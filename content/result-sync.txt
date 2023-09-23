@@ -1,0 +1,1 @@
+Here is the result: This is first file to read through readFileSync, This is second file to read through readFileSync
